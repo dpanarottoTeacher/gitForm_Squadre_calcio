@@ -66,7 +66,7 @@ $teamLosses = intval($_POST["teamLosses"]);
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Inserisci Dati Squadre</title>
+    <title>Inserisci Dati Squadre - TAFFURELLI</title>
     <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 <body>
