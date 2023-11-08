@@ -1,0 +1,81 @@
+ .choose {
+            border: 2px outset black;
+            background-color: gold;
+            border-radius: 5px;
+            width:40%;
+            padding:30px;
+}
+        
+.btncont{
+            width:40%;
+            padding:10px;
+            text-align: center;
+                    
+        }
+        
+.button{
+             width:25%;
+             padding:5px;
+             border-radius: 5px;
+             background-color: darkgreen;
+             color:white;
+         }
+
+.homebtn{
+            border-radius: 5px;
+            padding:5px;
+            background-color: darkmagenta;
+            color: white;
+         }
+         
+label{
+             display:block;
+             float: left;
+             width:150px;
+             
+         }
+
+select{
+           
+             width:50%;
+         }
+
+textarea{
+             width:50%;
+         }
+
+table{
+    width:100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+th{
+    height: 50px;
+    border: 1px solid black;
+    padding:10px;
+    
+}
+td{
+    border: 1px solid black;
+    padding:10px;
+    vertical-align: middle;
+}
+
+.voti{
+    width:45%;
+    background-color: darkseagreen;
+    padding:5px;
+}
+
+.visit{
+     border: 2px outset black;
+     background-color:burlywood;
+     border-radius: 5px;
+     width:40%;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-bottom: 5px;
+     padding-top:5px;
+}
