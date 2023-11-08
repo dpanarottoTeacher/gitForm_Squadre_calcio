@@ -70,6 +70,7 @@ $teamLosses = intval($_POST["teamLosses"]);
     <link rel="stylesheet" type="text/css" href="mystyle.css">
 </head>
 <body>
+    <h1> PAnarotto final2</h1>
     <h2>Inserisci Dati Squadre</h2>
     <p>Tutti i campi sono obbligatori.</p>
 
